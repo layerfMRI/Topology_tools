@@ -9,12 +9,16 @@ This project is licensed under BSD-3-Clause
     :alt: Graphical abstract figure
 
     
+    
+    
 This is set of 
 -> LAYNII programs  
 -> ANTS alignement scripts
 -> AFNI processing scripts
 -> SPM motion correction scripts
 -> ODIN programs
+used for the mesoscale analysis of an fMRI study from Huber et al. 2019 
+	https://www.biorxiv.org/content/10.1101/457002v2
 
 
 Working princicple of the algorythms
@@ -43,7 +47,7 @@ Working princicple of the algorythms
 6.) Working principle of the functional correlation kernel estimation:
 
 .. image:: https://layerfmri.files.wordpress.com/2019/06/explanation-01-1.png
-    :width: 18px
+    :width: 12px
     :target: https://layerfmri.files.wordpress.com/2019/06/explanation-01-1.png
     :alt: Noise Kernel
 
