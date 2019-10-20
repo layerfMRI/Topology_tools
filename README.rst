@@ -58,6 +58,6 @@ How to download this code
 ======
 1.) download the all the files with from github E.g. with the command::
 
-    git clone https://github.com/layerfMRI/topography
+    git clone https://github.com/layerfMRI/Topology_tools
     
 
