@@ -7,8 +7,10 @@ This project is licensed under BSD-3-Clause
     :width: 18px
     :target: https://layerfmri.files.wordpress.com/2019/10/abstract-01-3.png
     :alt: Graphical abstract figure
-
-https://zenodo.org/badge/DOI/10.5281/zenodo.3514295.svg
+    
+    
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3514295.svg
+   :target: https://doi.org/10.5281/zenodo.3514295
 
     
 Description
