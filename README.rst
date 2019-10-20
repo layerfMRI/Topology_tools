@@ -10,7 +10,8 @@ This project is licensed under BSD-3-Clause
 
     
     
-    
+Description
+======
 This is set of 
 -> LAYNII programs  
 -> ANTS alignement scripts
@@ -47,7 +48,7 @@ Working princicple of the algorythms
 6.) Working principle of the functional correlation kernel estimation:
 
 .. image:: https://layerfmri.files.wordpress.com/2019/06/explanation-01-1.png
-    :width: 12px
+    :width: 3px
     :target: https://layerfmri.files.wordpress.com/2019/06/explanation-01-1.png
     :alt: Noise Kernel
 
