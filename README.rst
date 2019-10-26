@@ -25,7 +25,7 @@ used for the mesoscale analysis of an fMRI study from Huber et al. 2019
 	https://www.biorxiv.org/content/10.1101/457002v2
 
 
-Working princicple of the algorythms
+Working princicple of the algorithms
 ======
 
 1.) Graphical description of the working principle of the surface mapping in EPI space:
@@ -36,7 +36,7 @@ Working princicple of the algorythms
 
 	https://layerfmri.com/analysispipeline/
 
-3.) Tutorial on the alignement of the anatomical data to the fucntional data:  
+3.) Tutorial on the alignment of the anatomical data to the functional data:  
 
 	https://layerfmri.com/high-quality-registration/
 	
