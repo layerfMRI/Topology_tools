@@ -3,9 +3,9 @@
 Topography_tools version 1.0.0
 This project is licensed under BSD-3-Clause
 
-.. image:: https://layerfmri.files.wordpress.com/2019/10/abstract-01-3.png
+.. image:: https://layerfmri.files.wordpress.com/2019/10/homunculus.png
     :width: 18px
-    :target: https://layerfmri.files.wordpress.com/2019/10/abstract-01-3.png
+    :target: https://layerfmri.files.wordpress.com/2019/10/homunculus.png
     :alt: Graphical abstract figure
     
     
